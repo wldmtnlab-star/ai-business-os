@@ -6,7 +6,7 @@
 
 # AI Business OS (AIBOS)
 
-### An Open Operating System for AI-Native Organizations
+### An open specification for designing and executing AI-native organizations.
 
 > **We don't build AI tools.**
 >
