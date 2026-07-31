@@ -11,6 +11,12 @@
 > **We don't build AI tools.**
 >
 > **We build organizations that think, learn, and continuously evolve with AI.**
+> Organizations as Code.
+
+Design your organization.
+Version it.
+Share it.
+Evolve it.
 
 </div>
 
