@@ -1,0 +1,48 @@
+nav:
+  - Home: README.md
+
+  - Getting Started: docs/GETTING_STARTED.md
+
+  - Documentation:
+      - Manifesto: docs/MANIFESTO.md
+      - Constitution: docs/CONSTITUTION.md
+      - Architecture: docs/ARCHITECTURE.md
+      - Information Architecture: docs/INFORMATION_ARCHITECTURE.md
+      - Glossary: docs/GLOSSARY.md
+      - Roadmap: docs/ROADMAP.md
+
+  - Knowledge:
+      - Overview: knowledge/README.md
+      - Company: knowledge/01_COMPANY.md
+      - Brands: knowledge/02_BRANDS.md
+      - Products: knowledge/03_PRODUCTS.md
+      - Solutions: knowledge/04_SOLUTIONS.md
+      - Services: knowledge/05_SERVICES.md
+      - Organizational Memory: knowledge/10_ORGANIZATIONAL_MEMORY.md
+
+  - Workers:
+      - Overview: workers/00_README.md
+      - Architect: workers/01_ARCHITECT.md
+      - Strategist: workers/02_STRATEGIST.md
+      - Product Manager: workers/03_PRODUCT_MANAGER.md
+      - Designer: workers/04_DESIGNER.md
+      - Engineer: workers/05_ENGINEER.md
+      - Writer: workers/06_WRITER.md
+      - Researcher: workers/07_RESEARCHER.md
+      - Reviewer: workers/08_REVIEWER.md
+      - Librarian: workers/09_LIBRARIAN.md
+      - Orchestrator: workers/10_ORCHESTRATOR.md
+
+  - Playbooks:
+      - Overview: playbooks/00_README.md
+      - Product Development: playbooks/01_PRODUCT_DEVELOPMENT.md
+      - Communication: playbooks/02_COMMUNICATION.md
+      - Business Development: playbooks/03_BUSINESS_DEVELOPMENT.md
+      - Collaboration: playbooks/04_COLLABORATION.md
+      - Decision Making: playbooks/05_DECISION_MAKING.md
+      - Project Delivery: playbooks/06_PROJECT_DELIVERY.md
+      - Documentation: playbooks/07_DOCUMENTATION.md
+      - Continuous Evolution: playbooks/08_CONTINUOUS_EVOLUTION.md
+
+  - Examples:
+      - Overview: examples/README.md

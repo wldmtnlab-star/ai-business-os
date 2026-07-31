@@ -1,0 +1,2 @@
+[console_scripts]
+aibos = aibos.cli:main

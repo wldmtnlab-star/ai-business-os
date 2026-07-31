@@ -1,0 +1,23 @@
+apiVersion: aibos.dev/v1
+
+kind: Organization
+
+metadata:
+  name: minimal
+  version: 1.0.0
+  description: Minimal AIBOS Organization
+
+spec:
+  knowledge:
+    - company
+
+  workers:
+    - assistant
+
+  playbooks:
+    - greeting
+
+runtime:
+  provider: openai
+  model: gpt-5.5
+  temperature: 0.7
