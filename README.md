@@ -4,7 +4,7 @@
 
 ## Human-Led. AI-Amplified.
 
-# AI Business OS
+# AI Business OS (AIBOS)
 
 ### An Open Operating System for AI-Native Organizations
 
